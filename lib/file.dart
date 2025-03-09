@@ -7,7 +7,7 @@ class cali extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        body: Text('welcome to the page'),
+        body: Text('welcome to the maan page'),
       ),
     );
   }
